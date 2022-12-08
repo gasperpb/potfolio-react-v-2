@@ -1,10 +1,10 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const media = {
-  small: '@media(max-width: 350px)',
-  mobile: '@media(max-width: 768px)',
-  tablet: '@media(min-width: 768px)',
-  desktop: '@media(min-width: 1024px)',
+  small: "@media(max-width: 350px)",
+  mobile: "@media(max-width: 768px)",
+  tablet: "@media(min-width: 768px)",
+  desktop: "@media(min-width: 1024px)",
 };
 
 export const SectionSkillStyle = styled.section`
@@ -91,7 +91,7 @@ export const SectionSkillStyle = styled.section`
   }
 
   .skill-php {
-    width: 90%;
+    width: 70%;
   }
   .skill-node {
     width: 85%;
