@@ -20,7 +20,7 @@ const About = () => {
 
           <div className="about-info">
             <div>
-              <span className="about-info-title">08+</span>
+              <span className="about-info-title">03+</span>
               <span className="about-info-name">
                 years <br /> experience{" "}
               </span>
@@ -40,7 +40,11 @@ const About = () => {
           </div>
 
           <div className="about-button-container">
-            <a href="#" download className="button about-button">
+            <a
+              href="https://drive.google.com/file/d/1LktbyKMI2h7Nf42fFHs4dWGZBf94IVEE/view?usp=sharing"
+              download
+              className="button about-button"
+            >
               Download CV <i className="uil uil-download-alt button-icon"></i>
             </a>
           </div>

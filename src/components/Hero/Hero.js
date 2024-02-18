@@ -64,11 +64,13 @@ export const Hero = () => {
             <h1 className="home-title">Hi, I'am Achilles</h1>
             <h3 className="home-subtitle">Developer</h3>
             <p className="home-description">
-              Experiência e conhecimento em desenvolvimento de softwares,
-              produzindo trabalho de qualidade, em um começo com Delphi 7
-              buscando sempre evoluir com conhecimento bem aprimorado em vários
-              bancos de dados ao qual a linguagem necessitava, sempre com muito
-              prazer em desenvolver.
+              Com vasta experiência e conhecimento em desenvolvimento de
+              softwares, tenho orgulho em produzir trabalhos de qualidade
+              excepcional. Iniciei minha carreira com Delphi 7 e desde então
+              busco constantemente evoluir, aprimorando meus conhecimentos em
+              diversos bancos de dados que a linguagem requer. Desenvolver é
+              minha paixão e dedico-me com entusiasmo e dedicação a cada projeto
+              que assumo.
             </p>
             <a href="#contact" className="button button-home">
               Contact Me <i className="uil uil-message button-icon"></i>

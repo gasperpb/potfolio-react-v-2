@@ -1,16 +1,16 @@
-import { useState } from 'react';
+import { useState } from "react";
 
-import Header from './components/Header/Header';
-import Hero from './components/Hero/Hero';
-import About from './components/About/About';
-import Skill from './components/Skill/Skill';
-import Qualification from './components/Qualification/Qualification';
-import Service from './components/Service/Service';
-import Portfolio from './components/Portfolio/Portfolio';
-import Project from './components/Project/Project';
-import Testimonial from './components/Testimonial/Testimonial';
-import Contact from './components/Contact/Contact';
-import Footer from './components/Footer/Footer';
+import Header from "./components/Header/Header";
+import Hero from "./components/Hero/Hero";
+import About from "./components/About/About";
+import Skill from "./components/Skill/Skill";
+import Qualification from "./components/Qualification/Qualification";
+import Service from "./components/Service/Service";
+import Portfolio from "./components/Portfolio/Portfolio";
+import Project from "./components/Project/Project";
+import Testimonial from "./components/Testimonial/Testimonial";
+import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   const [color, setColor] = useState(false);
@@ -22,11 +22,11 @@ function App() {
     }
   };
 
-  window.addEventListener('scroll', changeHeaderColor);
+  window.addEventListener("scroll", changeHeaderColor);
   return (
     <>
       <Header />
-      <div className='main'>
+      <div className="main">
         <Hero />
         <About />
         <Skill />
@@ -34,12 +34,11 @@ function App() {
         <Service />
         <Portfolio />
         <Project />
-        <Testimonial />
         <Contact />
       </div>
       <Footer />
-      <a href='#home' className={`scrollup ${color ? 'show-scroll' : ' '}`}>
-        <i className='uil uil-arrow-up scrollup-icon'></i>
+      <a href="#home" className={`scrollup ${color ? "show-scroll" : " "}`}>
+        <i className="uil uil-arrow-up scrollup-icon"></i>
       </a>
     </>
   );
