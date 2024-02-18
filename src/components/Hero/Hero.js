@@ -16,7 +16,7 @@ export const Hero = () => {
               <i className="uil uil-linkedin-alt"></i>
             </a>
             <a
-              href="https://www.dribbble.com/"
+              href="https://www.achillesdev.com.br/"
               className="home-social-icon"
               target="_blank"
               rel="noopener noreferrer"
@@ -64,13 +64,17 @@ export const Hero = () => {
             <h1 className="home-title">Hi, I'am Achilles</h1>
             <h3 className="home-subtitle">Developer</h3>
             <p className="home-description">
-              Com vasta experiência e conhecimento em desenvolvimento de
-              softwares, tenho orgulho em produzir trabalhos de qualidade
-              excepcional. Iniciei minha carreira com Delphi 7 e desde então
-              busco constantemente evoluir, aprimorando meus conhecimentos em
-              diversos bancos de dados que a linguagem requer. Desenvolver é
-              minha paixão e dedico-me com entusiasmo e dedicação a cada projeto
-              que assumo.
+              Com uma jornada marcada por aprendizado contínuo e uma sólida
+              compreensão em desenvolvimento de softwares, tenho a satisfação de
+              apresentar um portfólio repleto de projetos de excelência. Desde o
+              meu começo com Delphi 7, tenho mantido um compromisso contínuo com
+              a evolução, aprofundando-me nos intricados detalhes dos diversos
+              bancos de dados necessários para a fluidez da linguagem. Adoro
+              estudar e mergulhar em novos desafios, pois é na busca pelo
+              conhecimento que encontro minha paixão. Desenvolver software não é
+              apenas uma profissão para mim, é uma jornada apaixonante que
+              abraço com entusiasmo e dedicação em cada empreendimento que
+              abordo.
             </p>
             <a href="#contact" className="button button-home">
               Contact Me <i className="uil uil-message button-icon"></i>

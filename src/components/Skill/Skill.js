@@ -61,11 +61,41 @@ const Skill = () => {
 
               <div className="skill-data">
                 <div className="skill-title-alt">
+                  <h3 className="skill-name">Python</h3>
+                  <span className="skill-number">60%</span>
+                </div>
+                <div className="skill-bar">
+                  <span className="skill-percentage skill-python"></span>
+                </div>
+              </div>
+
+              <div className="skill-data">
+                <div className="skill-title-alt">
                   <h3 className="skill-name">React</h3>
                   <span className="skill-number">85%</span>
                 </div>
                 <div className="skill-bar">
                   <span className="skill-percentage skill-react"></span>
+                </div>
+              </div>
+
+              <div className="skill-data">
+                <div className="skill-title-alt">
+                  <h3 className="skill-name">Delphi</h3>
+                  <span className="skill-number">90%</span>
+                </div>
+                <div className="skill-bar">
+                  <span className="skill-percentage skill-delphi"></span>
+                </div>
+              </div>
+
+              <div className="skill-data">
+                <div className="skill-title-alt">
+                  <h3 className="skill-name">java</h3>
+                  <span className="skill-number">60%</span>
+                </div>
+                <div className="skill-bar">
+                  <span className="skill-percentage skill-java"></span>
                 </div>
               </div>
             </div>

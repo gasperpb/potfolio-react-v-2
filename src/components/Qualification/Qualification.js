@@ -43,7 +43,10 @@ const Qualification = () => {
                 <h3 className="qualification-title">Computer Enginner</h3>
                 <a href="https://www.ifpb.edu.br/">
                   <span className="qualification-subtitle">
-                    IFPB - University
+                    IFPB - University A grade do curso abrange várias áreas
+                    como: banco de dados, computação gráfica, redes de
+                    computadores, engenharia de software, hardware e teoria da
+                    computação entre outros
                   </span>
                 </a>
                 <div className="qualification-calendar">
@@ -67,9 +70,13 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification-title">Web Design</h3>
+                <h3 className="qualification-title">Informática</h3>
                 <span className="qualification-subtitle">
-                  IFPB ESPERAÇA PB - Institute
+                  IFPB ESPERAÇA PB - Institute Com Programação Orientada,
+                  Sistemas Operacionais, Estruturas de Dados e Algoritmos, Banco
+                  de dados,Desenvolvimento de Aplicações Web Testes de Software
+                  Tendências no Desenvolvimento de Software, entre outras
+                  disciplinas
                 </span>
                 <div className="qualification-calendar">
                   <i className="uil uil-calendar-alt"></i> 2018 - 2020

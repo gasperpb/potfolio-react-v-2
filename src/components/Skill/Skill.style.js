@@ -89,6 +89,15 @@ export const SectionSkillStyle = styled.section`
   .skill-react {
     width: 85%;
   }
+  .skill-python {
+    width: 60%;
+  }
+  .skill-delphi {
+    width: 90%;
+  }
+  .skill-java {
+    width: 60%;
+  }
 
   .skill-php {
     width: 70%;
