@@ -121,6 +121,9 @@ export const SectionSkillStyle = styled.section`
   .skill-photoshop {
     width: 80%;
   }
+  .skill-corel {
+    width: 90%;
+  }
 
   .skill-close .skill-list {
     height: 0;

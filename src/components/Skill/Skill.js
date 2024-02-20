@@ -202,6 +202,16 @@ const Skill = () => {
 
               <div className="skill-data">
                 <div className="skill-title">
+                  <h3 className="skill-name">Coreldraw</h3>
+                  <span className="skill-number">90%</span>
+                </div>
+                <div className="skill-bar">
+                  <span className="skill-percentage skill-corel"></span>
+                </div>
+              </div>
+
+              <div className="skill-data">
+                <div className="skill-title">
                   <h3 className="skill-name">Photoshop</h3>
                   <span className="skill-number">80%</span>
                 </div>
