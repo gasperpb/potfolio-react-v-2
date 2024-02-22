@@ -86,7 +86,6 @@ const Portfolio = () => {
                 Software de Academia Musculação
               </h3>
               <p className="portfolio-description">
-                <p>Claro, aqui está o texto organizado:</p>
                 <p>
                   "Este programa, desenvolvido em Delphi 7, está em uso há 8
                   anos. Ele funciona como um personal trainer virtual,
@@ -94,6 +93,24 @@ const Portfolio = () => {
                   evolução, crescimento e potencial no treino. Além disso, o
                   programa oferece a possibilidade de tirar dúvidas sobre os
                   exercícios e acompanhar a evolução das medidas do aluno."
+                </p>
+                <p>
+                  "Para este projeto, foram utilizadas as tecnologias Delphi,
+                  com o Pascal, e banco de dados Firebird em rede, para
+                  integração com outro software operado pelo administrador. Esse
+                  software permite que o administrador crie diversos exercícios
+                  para seus alunos individualmente ou em grupos, visando atender
+                  melhor às necessidades de cada um.
+                </p>
+                <p>
+                  O projeto teve início com um equipamento estilo "catch de
+                  banco", contendo apenas um teclado numérico, onde o cliente
+                  digita seu código e acompanha seus treinos diariamente ou
+                  semanalmente.
+                </p>
+                <p>
+                  A conclusão total do projeto e a correção de bugs levaram
+                  cerca de 3 meses."
                 </p>
               </p>
 
