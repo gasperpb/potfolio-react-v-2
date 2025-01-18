@@ -11,6 +11,7 @@ import Project from "./components/Project/Project";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import CreatePdf from './components/pngtopdf';
 
 function App() {
   const [color, setColor] = useState(false);
@@ -35,6 +36,7 @@ function App() {
         <Portfolio />
         <Project />
         <Contact />
+        <CreatePdf /> {/* Adicione esta linha */}
       </div>
       <Footer />
       <a href="#home" className={`scrollup ${color ? "show-scroll" : " "}`}>
